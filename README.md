@@ -22,11 +22,11 @@
 <h2 align="center">Connect with me!</h2>
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/Vinuki-Thiranya/" target="blank"><img align="center"
+  <a href="www.linkedin.com/in/vinuki-thiranya-800a22333" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="30" width="40" /></a>
   <!-- Facebook -->
-  <a href="https://fb.com/vinuki" target="blank"><img align="center"
+  <a href="[https://fb.com/vinuki](https://www.facebook.com/profile.php?id=61565630796973)" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="facebook" height="30" width="40" /></a>
   <!-- Instagram -->
