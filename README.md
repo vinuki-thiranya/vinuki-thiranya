@@ -63,6 +63,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=it23425590&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=it23425590&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <!-- Footer --> 
