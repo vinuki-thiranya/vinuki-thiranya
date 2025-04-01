@@ -22,11 +22,11 @@
 <h2 align="center">Connect with me!</h2>
 <p align="center">
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/vinuki-thiranya-800a22333" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/vinuki-thiranya-800a22333" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="30" width="40" /></a>
   <!-- Facebook -->
-  <a href="[https://fb.com/vinuki](https://www.facebook.com/profile.php?id=61565630796973)" target="blank"><img align="center"
+  <a href="https://www.facebook.com/profile.php?id=61565630796973" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="facebook" height="30" width="40" /></a>
   <!-- Instagram -->
@@ -43,7 +43,6 @@
 <!-- Languages and Tools Section -->
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <!-- Programming & Web Technologies -->
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
@@ -60,11 +59,9 @@
 <!-- GitHub Stats Section -->
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats</h2>
 <p align="center">
-  <!-- Most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=it23425590&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <!-- Overall GitHub statistics -->
   <img src="https://github-readme-stats.vercel.app/api?username=it23425590&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
