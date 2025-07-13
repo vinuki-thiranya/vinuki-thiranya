@@ -13,7 +13,7 @@
 
 <!-- Short Introduction -->
 <p align="center">
-  Second-year Computer Science undergraduate passionate about full-stack development, machine learning, and system design. 
+  Third-year Computer Science undergraduate passionate about full-stack development, machine learning, and system design. 
   Experienced in Java, Python, C, and JavaScript, with a strong interest in exploring new technologies and solving real-world problems.
 </p>
 <hr>
