@@ -56,7 +56,7 @@
 </p>
 <hr>
 
-<!-- GitHub Stats Section 
+<!-- GitHub Stats Section -->
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=it23425590&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=it23425590&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
--->
+
 <!-- Footer --> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
