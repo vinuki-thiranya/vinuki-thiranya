@@ -10,13 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout full repo
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Needed to push back
+          fetch-depth: 0
+          persist-credentials: true
 
-      # 2. Count words in README.md
       - name: Count words in README.md
         id: wordcount
         run: |
@@ -24,12 +23,10 @@ jobs:
           echo "WORD_COUNT=$WORDS" >> $GITHUB_ENV
           echo "Word count is $WORDS"
 
-      # 3. Create/update badge
       - name: Create badge file
         run: |
           echo "![Word Count](https://img.shields.io/badge/Word%20Count-$WORD_COUNT-blue)" > WORD_COUNT.md
 
-      # 4. Commit changes
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
@@ -37,22 +34,20 @@ jobs:
           git add WORD_COUNT.md
           git commit -m "Update word count badge" || echo "No changes to commit"
 
-      # 5. Push to a new branch
       - name: Push changes to new branch
         id: push
         run: |
           BRANCH="update-wordcount-$(date +%s)"
-          git branch $BRANCH
-          git checkout $BRANCH
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} $BRANCH
+          git checkout -b $BRANCH
+          git push --set-upstream origin $BRANCH
+          echo "BRANCH_NAME=$BRANCH" >> $GITHUB_ENV
 
-      # 6. Create Pull Request
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Update word count badge"
-          branch: ${{ steps.push.outputs.branch }}
+          branch: ${{ env.BRANCH_NAME }}
           base: main
           title: "Update Word Count Badge"
           body: "Automatically updated README word count badge."
