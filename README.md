@@ -65,6 +65,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vinuki-thiranya&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+<!-- GitHub Streak Section -->
+<h2 align="center">🔥 Contribution Streak</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinuki-thiranya&theme=highcontrast&hide_border=true&background=0d1117&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak Stats"/>
+</p>
+
 <!-- Footer --> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
