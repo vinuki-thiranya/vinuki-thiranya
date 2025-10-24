@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and push badge
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global vinuki-thiranya "github-actions"
+          git config --global vinuki-thiranya "it23425590@my.sliit.lk"
           git add WORD_COUNT.md
           git commit -m "Update word count badge" || echo "No changes to commit"
           git push
