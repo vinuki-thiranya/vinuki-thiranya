@@ -1,0 +1,33 @@
+name: Update Word Count Badge
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  count-words:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Count words in README.md
+        id: wordcount
+        run: |
+          WORDS=$(wc -w < README.md)
+          echo "WORD_COUNT=$WORDS" >> $GITHUB_ENV
+          echo "Word count is $WORDS"
+
+      - name: Create badge file
+        run: |
+          echo "![Word Count](https://img.shields.io/badge/Word%20Count-$WORD_COUNT-blue)" > WORD_COUNT.md
+
+      - name: Commit and push badge
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add WORD_COUNT.md
+          git commit -m "Update word count badge" || echo "No changes to commit"
+          git push
