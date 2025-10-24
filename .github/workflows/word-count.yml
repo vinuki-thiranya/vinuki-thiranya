@@ -6,48 +6,31 @@ on:
   workflow_dispatch:
 
 jobs:
-  count-words:
+  update-badge:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          persist-credentials: true
 
       - name: Count words in README.md
         id: wordcount
         run: |
           WORDS=$(wc -w < README.md)
-          echo "WORD_COUNT=$WORDS" >> $GITHUB_ENV
-          echo "Word count is $WORDS"
+          echo "Word count: $WORDS"
+          echo "WORDS=$WORDS" >> $GITHUB_ENV
 
       - name: Create badge file
         run: |
-          echo "![Word Count](https://img.shields.io/badge/Word%20Count-$WORD_COUNT-blue)" > WORD_COUNT.md
+          echo "![Word Count](https://img.shields.io/badge/Word%20Count-$WORDS-blue)" > WORD_COUNT.md
 
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add WORD_COUNT.md
-          git commit -m "Update word count badge" || echo "No changes to commit"
-
-      - name: Push changes to new branch
-        id: push
-        run: |
-          BRANCH="update-wordcount-$(date +%s)"
-          git checkout -b $BRANCH
-          git push --set-upstream origin $BRANCH
-          echo "BRANCH_NAME=$BRANCH" >> $GITHUB_ENV
-
-      - name: Create Pull Request
+      - name: Create Pull Request with badge update
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Update word count badge"
-          branch: ${{ env.BRANCH_NAME }}
-          base: main
           title: "Update Word Count Badge"
           body: "Automatically updated README word count badge."
+          branch: "update-wordcount-${{ github.run_id }}"
+          base: main
