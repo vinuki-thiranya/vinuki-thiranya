@@ -93,6 +93,8 @@
 </p>
 
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinuki-thiranya&theme=github-compact&hide_border=true&area=true&height=150" alt="Vinuki's Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinuki-thiranya&theme=minimal&hide_border=true&area=true&height=150" />
 
 
 <!-- Footer -->
