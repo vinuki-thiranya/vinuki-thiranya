@@ -86,12 +86,14 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinuki-thiranya&theme=github-compact&hide_border=true&area=true" alt="Vinuki's Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vinuki-thiranya&theme=github-compact&hide_border=true&area=true&height=15" 
+    alt="Vinuki's Activity Graph" 
+  />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinuki-thiranya&theme=github-compact&hide_border=true&area=true&custom_title=Vinuki%20Thiranya's%20Yearly%20Contribution%20Graph" alt="Vinuki's Activity Graph" />
-</p>
+
+
 
 <!-- Footer -->
 <p align="center">
