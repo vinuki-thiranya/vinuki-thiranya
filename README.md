@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinuki-thiranya&show_icons=true&locale=en&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinuki-thiranya&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <!-- Footer -->
