@@ -58,20 +58,11 @@
 <hr>
 
 ## 📊 GitHub Stats
+
+<!-- Use your working Vercel deployment -->
 ![Top Languages](https://github-readme-stats-nine-neon-59.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical&hide=contribs)
 
 ![GitHub Stats](https://github-readme-stats-nine-neon-59.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&hide=contribs)
-
-![Top Languages](https://github-readme-stats-nine-neon-59.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical&hide=contribs)
-
-![GitHub Stats](https://github-readme-stats-nine-neon-59.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&hide=contribs)
-
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats-git-master-vtkatugampala-gmailcoms-projects.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical&hide=contribs)
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-git-master-vtkatugampala-gmailcoms-projects.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&hide=contribs)
 
 <!-- Optional: Streak Stats (deploy later) -->
 <!--
