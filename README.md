@@ -57,13 +57,33 @@
 
 <hr>
 
-<!-- GitHub Activity Note -->
-<h2 align="center">📌 GitHub Activity</h2>
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  Actively contributing to personal projects, academic work, and open-source repositories.<br/>
-  Focused on building scalable systems, clean UI, and real-world problem-solving solutions.
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical"
+    height="160"
+  />
 </p>
+
+<p align="center">
+  <!-- Commit Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&count_private=true"
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=vinuki-thiranya&theme=radical"
+    height="160"
+  />
+</p>
+
 
 <!-- Footer -->
 <p align="center">
