@@ -59,10 +59,12 @@
 
 ## 📊 GitHub Stats
 
-<!-- Use your working Vercel deployment -->
-![Top Languages](https://github-readme-stats-nine-neon-59.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical&hide=contribs)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-nine-neon-59.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=light&hide=contribs)
 
-![GitHub Stats](https://github-readme-stats-nine-neon-59.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&hide=contribs)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-nine-neon-59.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=light&hide=contribs)
+
 
 <!-- Optional: Streak Stats (deploy later) -->
 <!--
