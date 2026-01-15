@@ -13,7 +13,7 @@
 
 <!-- Short Introduction -->
 <p align="center">
-  Third-year Computer Science undergraduate passionate about full-stack development, machine learning, and system design.  
+  Third-year Computer Science undergraduate passionate about full-stack development, machine learning, and system design.<br/>
   Experienced in Java, Python, C, and JavaScript, with a strong interest in exploring new technologies and solving real-world problems.
 </p>
 
@@ -51,21 +51,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/deviconsicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
 </p>
 
 <hr>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- GitHub Activity Note -->
+<h2 align="center">📌 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&hide_border=true" />
+  Actively contributing to personal projects, academic work, and open-source repositories.<br/>
+  Focused on building scalable systems, clean UI, and real-world problem-solving solutions.
 </p>
 
 <!-- Footer -->
