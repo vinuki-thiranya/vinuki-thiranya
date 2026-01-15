@@ -60,14 +60,17 @@
 ## 📊 GitHub Stats
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats-git-master-vtkatugampala-gmailcoms-projects.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-master-vtkatugampala-gmailcoms-projects.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical&hide=contribs)
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-git-master-vtkatugampala-gmailcoms-projects.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-master-vtkatugampala-gmailcoms-projects.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&hide=contribs)
 
-<!-- Optional: Streak Stats (if deployed) -->
+<!-- Optional: Streak Stats (deploy later) -->
+<!--
 ![GitHub Streak](https://your-streak-app.vercel.app?user=vinuki-thiranya&theme=radical)
+-->
 
+<hr>
 
 <!-- Footer -->
 <p align="center">
