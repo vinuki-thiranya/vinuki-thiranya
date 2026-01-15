@@ -58,12 +58,13 @@
 <hr>
 
 ## 📊 GitHub Stats
-
+<p align="center">
 <!-- Use your working Vercel deployment -->
 ![Top Languages](https://github-readme-stats-nine-neon-59.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical&hide=contribs)
-
+</p>
+<p align="center">
 ![GitHub Stats](https://github-readme-stats-nine-neon-59.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&hide=contribs)
-
+</p>
 <!-- Optional: Streak Stats (deploy later) -->
 <!--
 ![GitHub Streak](https://your-streak-app.vercel.app?user=vinuki-thiranya&theme=radical)
