@@ -57,32 +57,16 @@
 
 <hr>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical"
-    height="160"
-  />
-</p>
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-git-master-vtkatugampala-gmailcoms-projects.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical)
 
-<p align="center">
-  <!-- Commit Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&count_private=true"
-    height="160"
-  />
-</p>
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats-git-master-vtkatugampala-gmailcoms-projects.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical)
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img
-    src="https://streak-stats.demolab.com?user=vinuki-thiranya&theme=radical"
-    height="160"
-  />
-</p>
+<!-- Optional: Streak Stats (if deployed) -->
+![GitHub Streak](https://your-streak-app.vercel.app?user=vinuki-thiranya&theme=radical)
 
 
 <!-- Footer -->
