@@ -57,24 +57,16 @@
 
 <hr>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
+<!-- Use your working Vercel deployment -->
+![Top Languages](https://github-readme-stats-nine-neon-59.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical&hide=contribs)
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-nine-neon-59.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=light&hide=contribs" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-nine-neon-59.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=light&hide=contribs" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats-nine-neon-59.vercel.app/api?username=vinuki-thiranya&show_icons=true&theme=radical&hide=contribs)
 
 <!-- Optional: Streak Stats (deploy later) -->
 <!--
-<p align="center">
-  <img src="https://your-streak-app.vercel.app?user=vinuki-thiranya&theme=light" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://your-streak-app.vercel.app?user=vinuki-thiranya&theme=radical)
 -->
 
 <hr>
@@ -83,3 +75,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
 </p>
+
+is this correct
