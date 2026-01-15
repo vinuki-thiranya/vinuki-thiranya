@@ -59,7 +59,8 @@
 
 
 <div align="center">
-  ## 📊 GitHub Stats
+  <h2 align="center">📊 GitHub Stats</h2>
+
 
 
   ![Top Languages](https://github-readme-stats-nine-neon-59.vercel.app/api/top-langs/?username=vinuki-thiranya&layout=compact&theme=radical&hide=contribs)
